@@ -2,10 +2,15 @@
 **Date: 02/08/2026**
 الفيديوهات اللي تم إنجازها
 -Lesson 10: Bottom Navigation Bar
+
 -Lesson 11: Recap Tasky App
+
 -Lesson 12: ThemeData
+
 -Lesson 13: Shared Widget & Todo Screen
+
 -Lesson 14: Add Complete Screen Logic
+
 -Lesson 15: Recap Tasky App
 ## What I Learned
 
