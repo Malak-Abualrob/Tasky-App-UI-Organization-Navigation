@@ -1,12 +1,12 @@
 # Tasky-App-UI-Organization-Navigation
 **Date: 02/08/2026**
 الفيديوهات اللي تم إنجازها
-Lesson 10: Bottom Navigation Bar
-Lesson 11: Recap Tasky App
-Lesson 12: ThemeData
-Lesson 13: Shared Widget & Todo Screen
-Lesson 14: Add Complete Screen Logic
-Lesson 15: Recap Tasky App
+-Lesson 10: Bottom Navigation Bar
+-Lesson 11: Recap Tasky App
+-Lesson 12: ThemeData
+-Lesson 13: Shared Widget & Todo Screen
+-Lesson 14: Add Complete Screen Logic
+-Lesson 15: Recap Tasky App
 ## What I Learned
 
 بهذا اليوم حسيت إنه المشروع صار أقرب لتطبيق حقيقي، لأنه ما عدنا نركز على Widget وحدة أو Concept لحاله، بل صار أغلب الشغل عبارة عن تنظيم المشروع وربط كل الأجزاء مع بعض.
