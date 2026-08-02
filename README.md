@@ -1,6 +1,7 @@
 # Tasky-App-UI-Organization-Navigation
 **Date: 02/08/2026**
-الفيديوهات اللي تم إنجازها
+## الفيديوهات اللي تم إنجازها
+
 -Lesson 10: Bottom Navigation Bar
 
 -Lesson 11: Recap Tasky App
